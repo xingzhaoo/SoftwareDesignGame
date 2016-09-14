@@ -1,0 +1,702 @@
+time	C_DATE	default_create	F861_6968	C1/c_861.c
+time	C_DATE	make_utc	F861_6969	C1/c_861.c
+time	C_DATE	is_utc	F861_6970	C1/c_861.c
+time	C_DATE	update	F861_6971	C1/c_861.c
+time	C_DATE	year_now	F861_6972	C1/c_861.c
+time	C_DATE	month_now	F861_6973	C1/c_861.c
+time	C_DATE	day_now	F861_6974	C1/c_861.c
+time	C_DATE	hour_now	F861_6975	C1/c_861.c
+time	C_DATE	minute_now	F861_6976	C1/c_861.c
+time	C_DATE	second_now	F861_6977	C1/c_861.c
+time	C_DATE	millisecond_now	F861_6978	C1/c_861.c
+time	C_DATE	ftime	F861_6979	C1/c_861.c
+time	C_DATE	timeb_structure_size	F861_6980	C1/c_861.c
+time	C_DATE	time_t_structure_size	F861_6981	C1/c_861.c
+time	C_DATE	tm_structure_size	F861_6982	C1/c_861.c
+time	C_DATE	get_millitm	F861_6983	C1/c_861.c
+time	C_DATE	get_time	F861_6984	C1/c_861.c
+time	C_DATE	internal_item	F861_6985	C1/c_861.c
+time	C_DATE	localtime	F861_6986	C1/c_861.c
+time	C_DATE	gmtime	F861_6987	C1/c_861.c
+time	C_DATE	get_tm_year	F861_6988	C1/c_861.c
+time	C_DATE	get_tm_mon	F861_6989	C1/c_861.c
+time	C_DATE	get_tm_mday	F861_6990	C1/c_861.c
+time	C_DATE	get_tm_hour	F861_6991	C1/c_861.c
+time	C_DATE	get_tm_min	F861_6992	C1/c_861.c
+time	C_DATE	get_tm_sec	F861_6993	C1/c_861.c
+star_trek	USS_E_STATE_ACCESS	uss_e_state	F862_6994	C1/us862.c
+star_trek	reference USS_E_STATE_ACCESS	uss_e_state	F863_6994	C1/us863.c
+star_trek	SPACE_MAIN_VENGE_MODE_ACCESS	singleton	F864_6995	C1/sp864.c
+star_trek	reference SPACE_MAIN_VENGE_MODE_ACCESS	singleton	F865_6995	C1/sp865.c
+star_trek	MESSAGE	greeting	F866_6996	C1/me866.c
+star_trek	MESSAGE	luck_intro	F866_6997	C1/me866.c
+star_trek	MESSAGE	attack_warning	F866_6998	C1/me866.c
+star_trek	MESSAGE	command	F866_6999	C1/me866.c
+star_trek	MESSAGE	restart	F866_7000	C1/me866.c
+star_trek	MESSAGE	menu	F866_7001	C1/me866.c
+star_trek	MESSAGE	edge	F866_7002	C1/me866.c
+star_trek	MESSAGE	point	F866_7003	C1/me866.c
+star_trek	MESSAGE	gain_point	F866_7004	C1/me866.c
+star_trek	MESSAGE	miss	F866_7005	C1/me866.c
+star_trek	MESSAGE	victory	F866_7006	C1/me866.c
+star_trek	MESSAGE	lose	F866_7007	C1/me866.c
+star_trek	MESSAGE	quit	F866_7008	C1/me866.c
+star_trek	MESSAGE	uss_e_err	F866_7009	C1/me866.c
+star_trek	MESSAGE	uss_e_move_err	F866_7010	C1/me866.c
+star_trek	MESSAGE	move	F866_7011	C1/me866.c
+star_trek	MESSAGE	crash	F866_7012	C1/me866.c
+star_trek	MESSAGE	red_help	F866_7013	C1/me866.c
+star_trek	MESSAGE	red_call	F866_7014	C1/me866.c
+star_trek	MESSAGE	luck	F866_7015	C1/me866.c
+star_trek	RAND_SEQ	make	F867_7016	C1/ra867.c
+star_trek	RAND_SEQ	r_time	F867_7017	C1/ra867.c
+star_trek	RAND_SEQ	r_seed	F867_7018	C1/ra867.c
+star_trek	RAND_SEQ	r	F867_7019	C1/ra867.c
+star_trek	RAND_SEQ	get_seed	F867_7020	C1/ra867.c
+star_trek	RAND_SEQ	get_rnd	F867_7021	C1/ra867.c
+star_trek	RAND_SEQ	get_random_set	F867_7022	C1/ra867.c
+star_trek	CONTRL_ACCESS	singleton	F868_7023	C1/co868.c
+star_trek	reference CONTRL_ACCESS	singleton	F869_7023	C1/co869.c
+star_trek	DISPLAY	make	F870_7024	C1/di870.c
+star_trek	DISPLAY	send	F870_7025	C1/di870.c
+star_trek	DISPLAY	receive	F870_7026	C1/di870.c
+star_trek	SPACE_MAIN_UNITS_ACCESS	m	F871_7027	C1/sp871.c
+star_trek	reference SPACE_MAIN_UNITS_ACCESS	m	F872_7027	C1/sp872.c
+time	DATE_TIME_TOOLS	name	F874_7036	C1/da874.c
+time	DATE_TIME_TOOLS	days_text	F874_7037	C1/da874.c
+time	DATE_TIME_TOOLS	months_text	F874_7038	C1/da874.c
+time	DATE_TIME_TOOLS	long_days_text	F874_7039	C1/da874.c
+time	DATE_TIME_TOOLS	long_months_text	F874_7040	C1/da874.c
+time	DATE_TIME_TOOLS	date_default_format_string	F874_7041	C1/da874.c
+time	DATE_TIME_TOOLS	time_default_format_string	F874_7042	C1/da874.c
+time	DATE_TIME_TOOLS	default_format_string	F874_7043	C1/da874.c
+time	TIME_UTILITY	mod	F877_7051	C1/ti877.c
+time	TIME_UTILITY	div	F877_7052	C1/ti877.c
+time	TIME_UTILITY	date_time_tools	F877_7053	C1/ti877.c
+time	TIME_UTILITY	default_format_string	F877_7054	C1/ti877.c
+time	TIME_CONSTANTS	seconds_in_minute	F878_7055	C1/ti878.c
+time	TIME_CONSTANTS	seconds_in_hour	F878_7056	C1/ti878.c
+time	TIME_CONSTANTS	seconds_in_day	F878_7057	C1/ti878.c
+time	TIME_CONSTANTS	minutes_in_hour	F878_7058	C1/ti878.c
+time	TIME_CONSTANTS	hours_in_day	F878_7059	C1/ti878.c
+time	TIME_CONSTANTS	time_default_format_string	F878_7060	C1/ti878.c
+time	TIME_VALUE	hour	F880_7070	C1/ti880.c
+time	TIME_VALUE	minute	F880_7071	C1/ti880.c
+time	TIME_VALUE	second	F880_7072	C1/ti880.c
+time	TIME_VALUE	fractional_second	F880_7073	C1/ti880.c
+time	TIME_VALUE	compact_time	F880_7074	C1/ti880.c
+time	TIME_VALUE	fine_second	F880_7075	C1/ti880.c
+time	TIME_VALUE	milli_second	F880_7076	C1/ti880.c
+time	TIME_VALUE	micro_second	F880_7077	C1/ti880.c
+time	TIME_VALUE	nano_second	F880_7078	C1/ti880.c
+time	TIME_VALUE	set_hour	F880_7079	C1/ti880.c
+time	TIME_VALUE	set_minute	F880_7080	C1/ti880.c
+time	TIME_VALUE	set_second	F880_7081	C1/ti880.c
+time	TIME_VALUE	set_fine_second	F880_7082	C1/ti880.c
+time	TIME_VALUE	set_fractionals	F880_7083	C1/ti880.c
+time	TIME_VALUE	hour_mask	F880_7084	C1/ti880.c
+time	TIME_VALUE	minute_mask	F880_7085	C1/ti880.c
+time	TIME_VALUE	second_mask	F880_7086	C1/ti880.c
+time	TIME_VALUE	hour_shift	F880_7087	C1/ti880.c
+time	TIME_VALUE	minute_shift	F880_7088	C1/ti880.c
+time	DATE_CONSTANTS	days_in_week	F881_7089	C1/da881.c
+time	DATE_CONSTANTS	max_weeks_in_year	F881_7090	C1/da881.c
+time	DATE_CONSTANTS	months_in_year	F881_7091	C1/da881.c
+time	DATE_CONSTANTS	days_in_leap_year	F881_7092	C1/da881.c
+time	DATE_CONSTANTS	days_in_non_leap_year	F881_7093	C1/da881.c
+time	DATE_CONSTANTS	days_in_i_th_month	F881_7094	C1/da881.c
+time	DATE_CONSTANTS	date_default_format_string	F881_7095	C1/da881.c
+time	DATE_CONSTANTS	days_text	F881_7096	C1/da881.c
+time	DATE_CONSTANTS	months_text	F881_7097	C1/da881.c
+time	DATE_CONSTANTS	long_days_text	F881_7098	C1/da881.c
+time	DATE_CONSTANTS	long_months_text	F881_7099	C1/da881.c
+time	DATE_CONSTANTS	i_th_leap_year	F881_7100	C1/da881.c
+time	DATE_CONSTANTS	is_leap_year	F881_7101	C1/da881.c
+time	DATE_CONSTANTS	days_in_months	F881_7102	C1/da881.c
+time	DATE_TIME_MEASUREMENT	year	F882_7105	C1/da882.c
+time	DATE_TIME_MEASUREMENT	month	F882_7106	C1/da882.c
+time	DATE_TIME_MEASUREMENT	day	F882_7107	C1/da882.c
+time	DATE_TIME_MEASUREMENT	hour	F882_7108	C1/da882.c
+time	DATE_TIME_MEASUREMENT	minute	F882_7109	C1/da882.c
+time	DATE_TIME_MEASUREMENT	second	F882_7110	C1/da882.c
+time	DATE_TIME_MEASUREMENT	fine_second	F882_7111	C1/da882.c
+time	DATE_TIME_VALUE	date	F883_7112	C1/da883.c
+time	DATE_TIME_VALUE	time	F883_7113	C1/da883.c
+time	DATE_TIME_VALUE	fractional_second	F883_7114	C1/da883.c
+time	DATE_MEASUREMENT	days_in_month	F884_7122	C1/da884.c
+time	CODE_VALIDITY_CHECKER	is_code	F885_7123	C1/co885.c
+time	CODE_VALIDITY_CHECKER	is_day	F885_7124	C1/co885.c
+time	CODE_VALIDITY_CHECKER	is_day0	F885_7125	C1/co885.c
+time	CODE_VALIDITY_CHECKER	is_day_text	F885_7126	C1/co885.c
+time	CODE_VALIDITY_CHECKER	is_year4	F885_7127	C1/co885.c
+time	CODE_VALIDITY_CHECKER	is_year2	F885_7128	C1/co885.c
+time	CODE_VALIDITY_CHECKER	is_month	F885_7129	C1/co885.c
+time	CODE_VALIDITY_CHECKER	is_month0	F885_7130	C1/co885.c
+time	CODE_VALIDITY_CHECKER	is_month_text	F885_7131	C1/co885.c
+time	CODE_VALIDITY_CHECKER	is_hour	F885_7132	C1/co885.c
+time	CODE_VALIDITY_CHECKER	is_hour0	F885_7133	C1/co885.c
+time	CODE_VALIDITY_CHECKER	is_hour12	F885_7134	C1/co885.c
+time	CODE_VALIDITY_CHECKER	is_hour12_0	F885_7135	C1/co885.c
+time	CODE_VALIDITY_CHECKER	is_minute	F885_7136	C1/co885.c
+time	CODE_VALIDITY_CHECKER	is_minute0	F885_7137	C1/co885.c
+time	CODE_VALIDITY_CHECKER	is_second	F885_7138	C1/co885.c
+time	CODE_VALIDITY_CHECKER	is_second0	F885_7139	C1/co885.c
+time	CODE_VALIDITY_CHECKER	is_fractional_second	F885_7140	C1/co885.c
+time	CODE_VALIDITY_CHECKER	is_colon	F885_7141	C1/co885.c
+time	CODE_VALIDITY_CHECKER	is_slash	F885_7142	C1/co885.c
+time	CODE_VALIDITY_CHECKER	is_minus	F885_7143	C1/co885.c
+time	CODE_VALIDITY_CHECKER	is_comma	F885_7144	C1/co885.c
+time	CODE_VALIDITY_CHECKER	is_space	F885_7145	C1/co885.c
+time	CODE_VALIDITY_CHECKER	is_dot	F885_7146	C1/co885.c
+time	CODE_VALIDITY_CHECKER	is_separator	F885_7147	C1/co885.c
+time	CODE_VALIDITY_CHECKER	is_meridiem	F885_7148	C1/co885.c
+star_trek	SPACE_UNIT	max_id	F886_7151	C1/sp886.c
+star_trek	SPACE_TRACK	make	F887_7153	C1/sp887.c
+star_trek	SPACE_TRACK	name	F887_7154	C1/sp887.c
+star_trek	SPACE_TRACK	id	F887_7155	C1/sp887.c
+star_trek	SPACE_TRACK	set_id	F887_7156	C1/sp887.c
+star_trek	USS_ENTERPRISE	make	F888_7157	C1/us888.c
+star_trek	USS_ENTERPRISE	name	F888_7158	C1/us888.c
+star_trek	USS_ENTERPRISE	id	F888_7159	C1/us888.c
+star_trek	USS_ENTERPRISE	torpedoes	F888_7160	C1/us888.c
+star_trek	USS_ENTERPRISE	energy	F888_7161	C1/us888.c
+star_trek	USS_ENTERPRISE	shields	F888_7162	C1/us888.c
+star_trek	USS_ENTERPRISE	condition	F888_7163	C1/us888.c
+star_trek	USS_ENTERPRISE	alive	F888_7164	C1/us888.c
+star_trek	USS_ENTERPRISE	set_id	F888_7165	C1/us888.c
+star_trek	USS_ENTERPRISE	condition_check	F888_7166	C1/us888.c
+star_trek	USS_ENTERPRISE	move	F888_7167	C1/us888.c
+star_trek	USS_ENTERPRISE	crash	F888_7168	C1/us888.c
+star_trek	USS_ENTERPRISE	attack	F888_7169	C1/us888.c
+star_trek	USS_ENTERPRISE	hit	F888_7170	C1/us888.c
+star_trek	USS_ENTERPRISE	get_point	F888_7171	C1/us888.c
+star_trek	USS_ENTERPRISE	is_alive	F888_7172	C1/us888.c
+star_trek	USS_ENTERPRISE	condition_status	F888_7173	C1/us888.c
+star_trek	KLINGON	make	F889_7174	C1/kl889.c
+star_trek	KLINGON	name	F889_7175	C1/kl889.c
+star_trek	KLINGON	id	F889_7176	C1/kl889.c
+star_trek	KLINGON	set_id	F889_7177	C1/kl889.c
+star_trek	USS_E_STATE	make	F891_7179	C1/us891.c
+star_trek	USS_E_STATE	the_singleton	F891_7180	C1/us891.c
+star_trek	USS_E_STATE	state	F891_7181	C1/us891.c
+star_trek	USS_E_STATE	update	F891_7182	C1/us891.c
+star_trek	SPACE_MAIN_VENGE_MODE	make	F892_7183	C1/sp892.c
+star_trek	SPACE_MAIN_VENGE_MODE	the_singleton	F892_7184	C1/sp892.c
+star_trek	SPACE_MAIN_VENGE_MODE	main_units	F892_7185	C1/sp892.c
+star_trek	SPACE_MAIN_VENGE_MODE	hundred	F892_7186	C1/sp892.c
+star_trek	SPACE_MAIN_VENGE_MODE	hit_count	F892_7187	C1/sp892.c
+star_trek	SPACE_MAIN_VENGE_MODE	damage_report	F892_7188	C1/sp892.c
+star_trek	SPACE_MAIN_VENGE_MODE	venge	F892_7189	C1/sp892.c
+star_trek	SPACE_MAIN_VENGE_MODE	reset	F892_7190	C1/sp892.c
+star_trek	CONTRL	make	F893_7191	C2/co893.c
+star_trek	CONTRL	the_singleton	F893_7192	C2/co893.c
+star_trek	CONTRL	model	F893_7193	C2/co893.c
+star_trek	CONTRL	view	F893_7194	C2/co893.c
+star_trek	CONTRL	game_units	F893_7195	C2/co893.c
+star_trek	CONTRL	r	F893_7196	C2/co893.c
+star_trek	CONTRL	invalid_command	F893_7197	C2/co893.c
+star_trek	CONTRL	start	F893_7198	C2/co893.c
+time	INTERVAL [G#1]	make	F914_7199	C2/in914.c
+time	INTERVAL [G#1]	start_bound	F914_7200	C2/in914.c
+time	INTERVAL [G#1]	end_bound	F914_7201	C2/in914.c
+time	INTERVAL [G#1]	duration	F914_7202	C2/in914.c
+time	INTERVAL [G#1]	is_equal	F914_7203	C2/in914.c
+time	INTERVAL [G#1]	intersects	F914_7204	C2/in914.c
+time	INTERVAL [G#1]	is_less	F914_7205	C2/in914.c
+time	INTERVAL [G#1]	is_less_equal	F914_7206	C2/in914.c
+time	INTERVAL [G#1]	is_greater	F914_7207	C2/in914.c
+time	INTERVAL [G#1]	is_greater_equal	F914_7208	C2/in914.c
+time	INTERVAL [G#1]	is_strict_included_by	F914_7209	C2/in914.c
+time	INTERVAL [G#1]	strict_includes	F914_7210	C2/in914.c
+time	INTERVAL [G#1]	is_included_by	F914_7211	C2/in914.c
+time	INTERVAL [G#1]	includes	F914_7212	C2/in914.c
+time	INTERVAL [G#1]	overlaps	F914_7213	C2/in914.c
+time	INTERVAL [G#1]	is_overlapped_by	F914_7214	C2/in914.c
+time	INTERVAL [G#1]	meets	F914_7215	C2/in914.c
+time	INTERVAL [G#1]	is_met_by	F914_7216	C2/in914.c
+time	INTERVAL [G#1]	empty	F914_7217	C2/in914.c
+time	INTERVAL [G#1]	has	F914_7218	C2/in914.c
+time	INTERVAL [G#1]	strict_before	F914_7219	C2/in914.c
+time	INTERVAL [G#1]	strict_after	F914_7220	C2/in914.c
+time	INTERVAL [G#1]	before	F914_7221	C2/in914.c
+time	INTERVAL [G#1]	after	F914_7222	C2/in914.c
+time	INTERVAL [G#1]	set_start_bound	F914_7223	C2/in914.c
+time	INTERVAL [G#1]	set_end_bound	F914_7224	C2/in914.c
+time	INTERVAL [G#1]	union	F914_7225	C2/in914.c
+time	INTERVAL [G#1]	intersection	F914_7226	C2/in914.c
+time	INTERVAL [G#1]	gather	F914_7227	C2/in914.c
+time	INTERVAL [G#1]	out	F914_7228	C2/in914.c
+time	DURATION	is_negative	F894_7238	C2/du894.c
+time	DURATION	is_zero	F894_7239	C2/du894.c
+time	DURATION	identity	F894_7240	C2/du894.c
+time	DURATION	minus	F894_7241	C2/du894.c
+time	DATE_TIME_DURATION	make	F895_7242	C2/da895.c
+time	DATE_TIME_DURATION	make_definite	F895_7243	C2/da895.c
+time	DATE_TIME_DURATION	make_fine	F895_7244	C2/da895.c
+time	DATE_TIME_DURATION	make_by_date_time	F895_7245	C2/da895.c
+time	DATE_TIME_DURATION	make_by_date	F895_7246	C2/da895.c
+time	DATE_TIME_DURATION	date	F895_7247	C2/da895.c
+time	DATE_TIME_DURATION	time	F895_7248	C2/da895.c
+time	DATE_TIME_DURATION	origin_date_time	F895_7249	C2/da895.c
+time	DATE_TIME_DURATION	zero	F895_7250	C2/da895.c
+time	DATE_TIME_DURATION	seconds_count	F895_7251	C2/da895.c
+time	DATE_TIME_DURATION	fine_seconds_count	F895_7252	C2/da895.c
+time	DATE_TIME_DURATION	is_less	F895_7253	C2/da895.c
+time	DATE_TIME_DURATION	is_equal	F895_7254	C2/da895.c
+time	DATE_TIME_DURATION	definite	F895_7255	C2/da895.c
+time	DATE_TIME_DURATION	canonical	F895_7256	C2/da895.c
+time	DATE_TIME_DURATION	is_positive	F895_7257	C2/da895.c
+time	DATE_TIME_DURATION	has_origin_date_time	F895_7258	C2/da895.c
+time	DATE_TIME_DURATION	set_origin_date_time	F895_7259	C2/da895.c
+time	DATE_TIME_DURATION	set_date	F895_7260	C2/da895.c
+time	DATE_TIME_DURATION	set_time	F895_7261	C2/da895.c
+time	DATE_TIME_DURATION	plus	F895_7262	C2/da895.c
+time	DATE_TIME_DURATION	opposite	F895_7263	C2/da895.c
+time	DATE_TIME_DURATION	day_add	F895_7264	C2/da895.c
+time	DATE_TIME_DURATION	to_canonical	F895_7265	C2/da895.c
+time	DATE_TIME_DURATION	time_to_canonical	F895_7266	C2/da895.c
+time	DATE_DURATION	make	F896_7267	C2/da896.c
+time	DATE_DURATION	make_by_days	F896_7268	C2/da896.c
+time	DATE_DURATION	zero	F896_7269	C2/da896.c
+time	DATE_DURATION	day	F896_7270	C2/da896.c
+time	DATE_DURATION	month	F896_7271	C2/da896.c
+time	DATE_DURATION	year	F896_7272	C2/da896.c
+time	DATE_DURATION	origin_date	F896_7273	C2/da896.c
+time	DATE_DURATION	days_count	F896_7274	C2/da896.c
+time	DATE_DURATION	is_less	F896_7275	C2/da896.c
+time	DATE_DURATION	is_equal	F896_7276	C2/da896.c
+time	DATE_DURATION	definite	F896_7277	C2/da896.c
+time	DATE_DURATION	canonical	F896_7278	C2/da896.c
+time	DATE_DURATION	is_positive	F896_7279	C2/da896.c
+time	DATE_DURATION	has_origin_date	F896_7280	C2/da896.c
+time	DATE_DURATION	set_origin_date	F896_7281	C2/da896.c
+time	DATE_DURATION	set_day	F896_7282	C2/da896.c
+time	DATE_DURATION	set_month	F896_7283	C2/da896.c
+time	DATE_DURATION	set_year	F896_7284	C2/da896.c
+time	DATE_DURATION	set_date	F896_7285	C2/da896.c
+time	DATE_DURATION	day_add	F896_7286	C2/da896.c
+time	DATE_DURATION	month_add	F896_7287	C2/da896.c
+time	DATE_DURATION	year_add	F896_7288	C2/da896.c
+time	DATE_DURATION	plus	F896_7289	C2/da896.c
+time	DATE_DURATION	opposite	F896_7290	C2/da896.c
+time	DATE_DURATION	to_canonical	F896_7291	C2/da896.c
+time	DATE_DURATION	to_definite	F896_7292	C2/da896.c
+time	DATE_DURATION	to_date_time	F896_7293	C2/da896.c
+time	TIME_DURATION	make	F897_7294	C2/ti897.c
+time	TIME_DURATION	make_fine	F897_7295	C2/ti897.c
+time	TIME_DURATION	make_by_seconds	F897_7296	C2/ti897.c
+time	TIME_DURATION	make_by_fine_seconds	F897_7297	C2/ti897.c
+time	TIME_DURATION	fine_seconds_count	F897_7298	C2/ti897.c
+time	TIME_DURATION	seconds_count	F897_7299	C2/ti897.c
+time	TIME_DURATION	zero	F897_7300	C2/ti897.c
+time	TIME_DURATION	hour	F897_7301	C2/ti897.c
+time	TIME_DURATION	minute	F897_7302	C2/ti897.c
+time	TIME_DURATION	second	F897_7303	C2/ti897.c
+time	TIME_DURATION	fine_second	F897_7304	C2/ti897.c
+time	TIME_DURATION	fractional_second	F897_7305	C2/ti897.c
+time	TIME_DURATION	is_less	F897_7306	C2/ti897.c
+time	TIME_DURATION	is_equal	F897_7307	C2/ti897.c
+time	TIME_DURATION	canonical	F897_7308	C2/ti897.c
+time	TIME_DURATION	is_positive	F897_7309	C2/ti897.c
+time	TIME_DURATION	set_second	F897_7310	C2/ti897.c
+time	TIME_DURATION	set_fine_second	F897_7311	C2/ti897.c
+time	TIME_DURATION	set_fractionals	F897_7312	C2/ti897.c
+time	TIME_DURATION	set_minute	F897_7313	C2/ti897.c
+time	TIME_DURATION	set_hour	F897_7314	C2/ti897.c
+time	TIME_DURATION	second_add	F897_7315	C2/ti897.c
+time	TIME_DURATION	fine_second_add	F897_7316	C2/ti897.c
+time	TIME_DURATION	minute_add	F897_7317	C2/ti897.c
+time	TIME_DURATION	hour_add	F897_7318	C2/ti897.c
+time	TIME_DURATION	plus	F897_7319	C2/ti897.c
+time	TIME_DURATION	opposite	F897_7320	C2/ti897.c
+time	TIME_DURATION	to_canonical	F897_7321	C2/ti897.c
+time	TIME_DURATION	to_days	F897_7322	C2/ti897.c
+time	TIME_DURATION	time_modulo_day	F897_7323	C2/ti897.c
+time	TIME_DURATION	tolerance	F897_7324	C2/ti897.c
+time	ABSOLUTE	is_less	F898_7327	C2/ab898.c
+time	ABSOLUTE	minus	F898_7328	C2/ab898.c
+star_trek	APPLICATION	make	F899_7330	C2/ap899.c
+star_trek	APPLICATION	model_game	F899_7331	C2/ap899.c
+star_trek	APPLICATION	view_game	F899_7332	C2/ap899.c
+star_trek	APPLICATION	control_game	F899_7333	C2/ap899.c
+time	DATE_VALUE	day	F900_7334	C2/da900.c
+time	DATE_VALUE	month	F900_7335	C2/da900.c
+time	DATE_VALUE	year	F900_7336	C2/da900.c
+time	DATE_VALUE	compact_date	F900_7337	C2/da900.c
+time	DATE_VALUE	ordered_compact_date	F900_7338	C2/da900.c
+time	DATE_VALUE	set_date	F900_7339	C2/da900.c
+time	DATE_VALUE	set_day	F900_7340	C2/da900.c
+time	DATE_VALUE	set_month	F900_7341	C2/da900.c
+time	DATE_VALUE	set_year	F900_7342	C2/da900.c
+time	DATE_VALUE	set_internal_compact_date	F900_7343	C2/da900.c
+time	DATE_VALUE	set_internal_ordered_compact_date	F900_7344	C2/da900.c
+time	DATE_VALUE	correct_mismatch	F900_7345	C2/da900.c
+time	DATE_VALUE	day_mask	F900_7346	C2/da900.c
+time	DATE_VALUE	month_mask	F900_7347	C2/da900.c
+time	DATE_VALUE	year_mask	F900_7348	C2/da900.c
+time	DATE_VALUE	year_shift	F900_7349	C2/da900.c
+time	DATE_VALUE	month_shift	F900_7350	C2/da900.c
+time	DATE_VALUE	day_shift	F900_7351	C2/da900.c
+time	DATE_VALUE	compact_date_attribute_name	F900_7352	C2/da900.c
+time	DATE_VALUE	set_private_internal_compact_date	F900_7353	C2/da900.c
+time	DATE_TIME_CODE	make	F901_7354	C2/da901.c
+time	DATE_TIME_CODE	debug_output	F901_7355	C2/da901.c
+time	DATE_TIME_CODE	is_separator_code	F901_7356	C2/da901.c
+time	DATE_TIME_CODE	set_value	F901_7357	C2/da901.c
+time	DATE_TIME_CODE	value	F901_7358	C2/da901.c
+time	DATE_TIME_CODE	count_max	F901_7359	C2/da901.c
+time	DATE_TIME_CODE	count_min	F901_7360	C2/da901.c
+time	DATE_TIME_CODE	name	F901_7361	C2/da901.c
+time	DATE_TIME_CODE	value_max	F901_7362	C2/da901.c
+time	DATE_TIME_CODE	value_min	F901_7363	C2/da901.c
+time	DATE_TIME_CODE	type	F901_7364	C2/da901.c
+time	DATE_TIME_CODE	is_text	F901_7365	C2/da901.c
+time	DATE_TIME_CODE	is_numeric	F901_7366	C2/da901.c
+time	DATE_TIME_CODE	day_numeric_type_code	F901_7367	C2/da901.c
+time	DATE_TIME_CODE	day_numeric_on_2_digits_type_code	F901_7368	C2/da901.c
+time	DATE_TIME_CODE	day_text_type_code	F901_7369	C2/da901.c
+time	DATE_TIME_CODE	year_on_4_digits_type_code	F901_7370	C2/da901.c
+time	DATE_TIME_CODE	year_on_2_digits_type_code	F901_7371	C2/da901.c
+time	DATE_TIME_CODE	month_numeric_type_code	F901_7372	C2/da901.c
+time	DATE_TIME_CODE	month_numeric_on_2_digits_type_code	F901_7373	C2/da901.c
+time	DATE_TIME_CODE	month_text_type_code	F901_7374	C2/da901.c
+time	DATE_TIME_CODE	hour_numeric_type_code	F901_7375	C2/da901.c
+time	DATE_TIME_CODE	hour_numeric_on_2_digits_type_code	F901_7376	C2/da901.c
+time	DATE_TIME_CODE	hour_12_clock_scale_type_code	F901_7377	C2/da901.c
+time	DATE_TIME_CODE	hour_12_clock_scale_on_2_digits_type_code	F901_7378	C2/da901.c
+time	DATE_TIME_CODE	minute_numeric_type_code	F901_7379	C2/da901.c
+time	DATE_TIME_CODE	minute_numeric_on_2_digits_type_code	F901_7380	C2/da901.c
+time	DATE_TIME_CODE	second_numeric_type_code	F901_7381	C2/da901.c
+time	DATE_TIME_CODE	second_numeric_on_2_digits_type_code	F901_7382	C2/da901.c
+time	DATE_TIME_CODE	fractional_second_numeric_type_code	F901_7383	C2/da901.c
+time	DATE_TIME_CODE	colon_type_code	F901_7384	C2/da901.c
+time	DATE_TIME_CODE	slash_type_code	F901_7385	C2/da901.c
+time	DATE_TIME_CODE	minus_type_code	F901_7386	C2/da901.c
+time	DATE_TIME_CODE	comma_type_code	F901_7387	C2/da901.c
+time	DATE_TIME_CODE	space_type_code	F901_7388	C2/da901.c
+time	DATE_TIME_CODE	dot_type_code	F901_7389	C2/da901.c
+time	DATE_TIME_CODE	meridiem_type_code	F901_7390	C2/da901.c
+elks	TYPE [SPACE_MAIN_UNITS_ACCESS]	name	F912_4834	C2/ty912.c
+elks	TYPE [SPACE_MAIN_UNITS_ACCESS]	generic_parameter_type	F912_4835	C2/ty912.c
+elks	TYPE [SPACE_MAIN_UNITS_ACCESS]	type_id	F912_4836	C2/ty912.c
+elks	TYPE [SPACE_MAIN_UNITS_ACCESS]	hash_code	F912_4837	C2/ty912.c
+elks	TYPE [SPACE_MAIN_UNITS_ACCESS]	generic_parameter_count	F912_4838	C2/ty912.c
+elks	TYPE [SPACE_MAIN_UNITS_ACCESS]	has_default	F912_4839	C2/ty912.c
+elks	TYPE [SPACE_MAIN_UNITS_ACCESS]	is_expanded	F912_4840	C2/ty912.c
+elks	TYPE [SPACE_MAIN_UNITS_ACCESS]	is_attached	F912_4841	C2/ty912.c
+elks	TYPE [SPACE_MAIN_UNITS_ACCESS]	is_equal	F912_4842	C2/ty912.c
+elks	TYPE [SPACE_MAIN_UNITS_ACCESS]	is_strictly_conforming_to	F912_4843	C2/ty912.c
+elks	TYPE [SPACE_MAIN_UNITS_ACCESS]	is_conforming_to	F912_4844	C2/ty912.c
+elks	TYPE [SPACE_MAIN_UNITS_ACCESS]	adapt	F912_4845	C2/ty912.c
+elks	TYPE [SPACE_MAIN_UNITS_ACCESS]	attempted	F912_4846	C2/ty912.c
+elks	TYPE [SPACE_MAIN_UNITS_ACCESS]	attempt	F912_4847	C2/ty912.c
+elks	TYPE [SPACE_MAIN_UNITS_ACCESS]	default_detachable_value	F912_4848	C2/ty912.c
+elks	TYPE [SPACE_MAIN_UNITS_ACCESS]	default	F912_4849	C2/ty912.c
+elks	TYPE [SPACE_MAIN_UNITS_ACCESS]	out	F912_4850	C2/ty912.c
+elks	TYPE [SPACE_MAIN_UNITS_ACCESS]	debug_output	F912_4851	C2/ty912.c
+elks	TYPE [SPACE_MAIN_UNITS_ACCESS]	plus	F912_4852	C2/ty912.c
+elks	TYPE [SPACE_MAIN_UNITS_ACCESS]	same_string	F912_4853	C2/ty912.c
+elks	TYPE [SPACE_MAIN_UNITS_ACCESS]	is_case_insensitive_equal	F912_4854	C2/ty912.c
+elks	TYPE [SPACE_MAIN_UNITS_ACCESS]	as_lower	F912_4855	C2/ty912.c
+elks	TYPE [SPACE_MAIN_UNITS_ACCESS]	as_upper	F912_4856	C2/ty912.c
+elks	TYPE [SPACE_MAIN_UNITS_ACCESS]	to_string_8	F912_4857	C2/ty912.c
+elks	TYPE [SPACE_MAIN_UNITS_ACCESS]	to_string_32	F912_4858	C2/ty912.c
+elks	TYPE [SPACE_MAIN_UNITS_ACCESS]	internal_name	F912_4859	C2/ty912.c
+elks	TYPE [SPACE_MAIN_UNITS_ACCESS]	runtime_name	F912_4860	C2/ty912.c
+elks	TYPE [CONTRL_ACCESS]	name	F913_4834	C2/ty913.c
+elks	TYPE [CONTRL_ACCESS]	generic_parameter_type	F913_4835	C2/ty913.c
+elks	TYPE [CONTRL_ACCESS]	type_id	F913_4836	C2/ty913.c
+elks	TYPE [CONTRL_ACCESS]	hash_code	F913_4837	C2/ty913.c
+elks	TYPE [CONTRL_ACCESS]	generic_parameter_count	F913_4838	C2/ty913.c
+elks	TYPE [CONTRL_ACCESS]	has_default	F913_4839	C2/ty913.c
+elks	TYPE [CONTRL_ACCESS]	is_expanded	F913_4840	C2/ty913.c
+elks	TYPE [CONTRL_ACCESS]	is_attached	F913_4841	C2/ty913.c
+elks	TYPE [CONTRL_ACCESS]	is_equal	F913_4842	C2/ty913.c
+elks	TYPE [CONTRL_ACCESS]	is_strictly_conforming_to	F913_4843	C2/ty913.c
+elks	TYPE [CONTRL_ACCESS]	is_conforming_to	F913_4844	C2/ty913.c
+elks	TYPE [CONTRL_ACCESS]	adapt	F913_4845	C2/ty913.c
+elks	TYPE [CONTRL_ACCESS]	attempted	F913_4846	C2/ty913.c
+elks	TYPE [CONTRL_ACCESS]	attempt	F913_4847	C2/ty913.c
+elks	TYPE [CONTRL_ACCESS]	default_detachable_value	F913_4848	C2/ty913.c
+elks	TYPE [CONTRL_ACCESS]	default	F913_4849	C2/ty913.c
+elks	TYPE [CONTRL_ACCESS]	out	F913_4850	C2/ty913.c
+elks	TYPE [CONTRL_ACCESS]	debug_output	F913_4851	C2/ty913.c
+elks	TYPE [CONTRL_ACCESS]	plus	F913_4852	C2/ty913.c
+elks	TYPE [CONTRL_ACCESS]	same_string	F913_4853	C2/ty913.c
+elks	TYPE [CONTRL_ACCESS]	is_case_insensitive_equal	F913_4854	C2/ty913.c
+elks	TYPE [CONTRL_ACCESS]	as_lower	F913_4855	C2/ty913.c
+elks	TYPE [CONTRL_ACCESS]	as_upper	F913_4856	C2/ty913.c
+elks	TYPE [CONTRL_ACCESS]	to_string_8	F913_4857	C2/ty913.c
+elks	TYPE [CONTRL_ACCESS]	to_string_32	F913_4858	C2/ty913.c
+elks	TYPE [CONTRL_ACCESS]	internal_name	F913_4859	C2/ty913.c
+elks	TYPE [CONTRL_ACCESS]	runtime_name	F913_4860	C2/ty913.c
+elks	TYPE [SPACE_MAIN_VENGE_MODE_ACCESS]	name	F915_4834	C2/ty915.c
+elks	TYPE [SPACE_MAIN_VENGE_MODE_ACCESS]	generic_parameter_type	F915_4835	C2/ty915.c
+elks	TYPE [SPACE_MAIN_VENGE_MODE_ACCESS]	type_id	F915_4836	C2/ty915.c
+elks	TYPE [SPACE_MAIN_VENGE_MODE_ACCESS]	hash_code	F915_4837	C2/ty915.c
+elks	TYPE [SPACE_MAIN_VENGE_MODE_ACCESS]	generic_parameter_count	F915_4838	C2/ty915.c
+elks	TYPE [SPACE_MAIN_VENGE_MODE_ACCESS]	has_default	F915_4839	C2/ty915.c
+elks	TYPE [SPACE_MAIN_VENGE_MODE_ACCESS]	is_expanded	F915_4840	C2/ty915.c
+elks	TYPE [SPACE_MAIN_VENGE_MODE_ACCESS]	is_attached	F915_4841	C2/ty915.c
+elks	TYPE [SPACE_MAIN_VENGE_MODE_ACCESS]	is_equal	F915_4842	C2/ty915.c
+elks	TYPE [SPACE_MAIN_VENGE_MODE_ACCESS]	is_strictly_conforming_to	F915_4843	C2/ty915.c
+elks	TYPE [SPACE_MAIN_VENGE_MODE_ACCESS]	is_conforming_to	F915_4844	C2/ty915.c
+elks	TYPE [SPACE_MAIN_VENGE_MODE_ACCESS]	adapt	F915_4845	C2/ty915.c
+elks	TYPE [SPACE_MAIN_VENGE_MODE_ACCESS]	attempted	F915_4846	C2/ty915.c
+elks	TYPE [SPACE_MAIN_VENGE_MODE_ACCESS]	attempt	F915_4847	C2/ty915.c
+elks	TYPE [SPACE_MAIN_VENGE_MODE_ACCESS]	default_detachable_value	F915_4848	C2/ty915.c
+elks	TYPE [SPACE_MAIN_VENGE_MODE_ACCESS]	default	F915_4849	C2/ty915.c
+elks	TYPE [SPACE_MAIN_VENGE_MODE_ACCESS]	out	F915_4850	C2/ty915.c
+elks	TYPE [SPACE_MAIN_VENGE_MODE_ACCESS]	debug_output	F915_4851	C2/ty915.c
+elks	TYPE [SPACE_MAIN_VENGE_MODE_ACCESS]	plus	F915_4852	C2/ty915.c
+elks	TYPE [SPACE_MAIN_VENGE_MODE_ACCESS]	same_string	F915_4853	C2/ty915.c
+elks	TYPE [SPACE_MAIN_VENGE_MODE_ACCESS]	is_case_insensitive_equal	F915_4854	C2/ty915.c
+elks	TYPE [SPACE_MAIN_VENGE_MODE_ACCESS]	as_lower	F915_4855	C2/ty915.c
+elks	TYPE [SPACE_MAIN_VENGE_MODE_ACCESS]	as_upper	F915_4856	C2/ty915.c
+elks	TYPE [SPACE_MAIN_VENGE_MODE_ACCESS]	to_string_8	F915_4857	C2/ty915.c
+elks	TYPE [SPACE_MAIN_VENGE_MODE_ACCESS]	to_string_32	F915_4858	C2/ty915.c
+elks	TYPE [SPACE_MAIN_VENGE_MODE_ACCESS]	internal_name	F915_4859	C2/ty915.c
+elks	TYPE [SPACE_MAIN_VENGE_MODE_ACCESS]	runtime_name	F915_4860	C2/ty915.c
+elks	TYPE [USS_E_STATE_ACCESS]	name	F916_4834	C2/ty916.c
+elks	TYPE [USS_E_STATE_ACCESS]	generic_parameter_type	F916_4835	C2/ty916.c
+elks	TYPE [USS_E_STATE_ACCESS]	type_id	F916_4836	C2/ty916.c
+elks	TYPE [USS_E_STATE_ACCESS]	hash_code	F916_4837	C2/ty916.c
+elks	TYPE [USS_E_STATE_ACCESS]	generic_parameter_count	F916_4838	C2/ty916.c
+elks	TYPE [USS_E_STATE_ACCESS]	has_default	F916_4839	C2/ty916.c
+elks	TYPE [USS_E_STATE_ACCESS]	is_expanded	F916_4840	C2/ty916.c
+elks	TYPE [USS_E_STATE_ACCESS]	is_attached	F916_4841	C2/ty916.c
+elks	TYPE [USS_E_STATE_ACCESS]	is_equal	F916_4842	C2/ty916.c
+elks	TYPE [USS_E_STATE_ACCESS]	is_strictly_conforming_to	F916_4843	C2/ty916.c
+elks	TYPE [USS_E_STATE_ACCESS]	is_conforming_to	F916_4844	C2/ty916.c
+elks	TYPE [USS_E_STATE_ACCESS]	adapt	F916_4845	C2/ty916.c
+elks	TYPE [USS_E_STATE_ACCESS]	attempted	F916_4846	C2/ty916.c
+elks	TYPE [USS_E_STATE_ACCESS]	attempt	F916_4847	C2/ty916.c
+elks	TYPE [USS_E_STATE_ACCESS]	default_detachable_value	F916_4848	C2/ty916.c
+elks	TYPE [USS_E_STATE_ACCESS]	default	F916_4849	C2/ty916.c
+elks	TYPE [USS_E_STATE_ACCESS]	out	F916_4850	C2/ty916.c
+elks	TYPE [USS_E_STATE_ACCESS]	debug_output	F916_4851	C2/ty916.c
+elks	TYPE [USS_E_STATE_ACCESS]	plus	F916_4852	C2/ty916.c
+elks	TYPE [USS_E_STATE_ACCESS]	same_string	F916_4853	C2/ty916.c
+elks	TYPE [USS_E_STATE_ACCESS]	is_case_insensitive_equal	F916_4854	C2/ty916.c
+elks	TYPE [USS_E_STATE_ACCESS]	as_lower	F916_4855	C2/ty916.c
+elks	TYPE [USS_E_STATE_ACCESS]	as_upper	F916_4856	C2/ty916.c
+elks	TYPE [USS_E_STATE_ACCESS]	to_string_8	F916_4857	C2/ty916.c
+elks	TYPE [USS_E_STATE_ACCESS]	to_string_32	F916_4858	C2/ty916.c
+elks	TYPE [USS_E_STATE_ACCESS]	internal_name	F916_4859	C2/ty916.c
+elks	TYPE [USS_E_STATE_ACCESS]	runtime_name	F916_4860	C2/ty916.c
+star_trek	SPACE_MAIN_UNITS	make	F902_7391	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	the_singleton	F902_7392	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	count	F902_7393	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	count_klingons	F902_7394	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	space_units	F902_7395	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	uss_e_id	F902_7396	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	mode	F902_7397	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	game_units	F902_7398	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	max_klingons	F902_7399	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	reset	F902_7400	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	continue	F902_7401	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	report	F902_7402	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	load_space_track	F902_7403	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	load_klingons	F902_7404	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	load_uss_e	F902_7405	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	klingons_decrease	F902_7406	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	uss_e_update	F902_7407	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	uss_e_ammunition_call	F902_7408	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	hit_target	F902_7409	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	miss_target	F902_7410	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	attack	F902_7411	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	move	F902_7412	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	uss_e_swape	F902_7413	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	uss_e_crash	F902_7414	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	quadrant_out	F902_7415	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	is_victory	F902_7416	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	uss_e_is_alive	F902_7417	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	uss_e_state	F902_7418	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	uss_e_out	F902_7419	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	out	F902_7420	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	scan_left	F902_7421	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	scan_right	F902_7422	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	scan_up	F902_7423	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	scan_down	F902_7424	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	get_x_axis	F902_7425	C2/sp902.c
+star_trek	SPACE_MAIN_UNITS	get_y_axis	F902_7426	C2/sp902.c
+time	DATE_VALIDITY_CHECKER	date_valid	F903_7427	C2/da903.c
+time	DATE_VALIDITY_CHECKER	date_valid_with_base	F903_7428	C2/da903.c
+time	DATE_VALIDITY_CHECKER	date_valid_default	F903_7429	C2/da903.c
+time	DATE_VALIDITY_CHECKER	date_valid_default_with_base	F903_7430	C2/da903.c
+time	DATE_VALIDITY_CHECKER	compact_date_valid	F903_7431	C2/da903.c
+time	DATE_VALIDITY_CHECKER	ordered_compact_date_valid	F903_7432	C2/da903.c
+time	DATE_VALIDITY_CHECKER	is_correct_date	F903_7433	C2/da903.c
+time	DATE	make	F904_7434	C2/da904.c
+time	DATE	make_month_day_year	F904_7435	C2/da904.c
+time	DATE	make_day_month_year	F904_7436	C2/da904.c
+time	DATE	make_now	F904_7437	C2/da904.c
+time	DATE	make_now_utc	F904_7438	C2/da904.c
+time	DATE	make_by_days	F904_7439	C2/da904.c
+time	DATE	make_from_string_default	F904_7440	C2/da904.c
+time	DATE	make_from_string_default_with_base	F904_7441	C2/da904.c
+time	DATE	make_from_string	F904_7442	C2/da904.c
+time	DATE	make_from_string_with_base	F904_7443	C2/da904.c
+time	DATE	make_by_compact_date	F904_7444	C2/da904.c
+time	DATE	make_by_ordered_compact_date	F904_7445	C2/da904.c
+time	DATE	origin	F904_7446	C2/da904.c
+time	DATE	is_less	F904_7447	C2/da904.c
+time	DATE	duration	F904_7448	C2/da904.c
+time	DATE	days	F904_7449	C2/da904.c
+time	DATE	leap_year	F904_7450	C2/da904.c
+time	DATE	days_at_month	F904_7451	C2/da904.c
+time	DATE	year_day	F904_7452	C2/da904.c
+time	DATE	week_of_year	F904_7453	C2/da904.c
+time	DATE	days_in_year	F904_7454	C2/da904.c
+time	DATE	day_of_the_week	F904_7455	C2/da904.c
+time	DATE	day_of_january_1st	F904_7456	C2/da904.c
+time	DATE	days_from	F904_7457	C2/da904.c
+time	DATE	to_date_time	F904_7458	C2/da904.c
+time	DATE	plus	F904_7459	C2/da904.c
+time	DATE	add	F904_7460	C2/da904.c
+time	DATE	relative_duration	F904_7461	C2/da904.c
+time	DATE	day_forth	F904_7462	C2/da904.c
+time	DATE	day_back	F904_7463	C2/da904.c
+time	DATE	day_add	F904_7464	C2/da904.c
+time	DATE	month_forth	F904_7465	C2/da904.c
+time	DATE	month_back	F904_7466	C2/da904.c
+time	DATE	month_add	F904_7467	C2/da904.c
+time	DATE	year_forth	F904_7468	C2/da904.c
+time	DATE	year_back	F904_7469	C2/da904.c
+time	DATE	year_add	F904_7470	C2/da904.c
+time	DATE	year_month_add	F904_7471	C2/da904.c
+time	DATE	debug_output	F904_7472	C2/da904.c
+time	DATE	out	F904_7473	C2/da904.c
+time	DATE	formatted_out	F904_7474	C2/da904.c
+time	DATE	days_at_months	F904_7475	C2/da904.c
+time	FIND_SEPARATOR_FACILITY	separator_characters	F905_7476	C2/fi905.c
+time	FIND_SEPARATOR_FACILITY	find_separator	F905_7477	C2/fi905.c
+time	FIND_SEPARATOR_FACILITY	extracted_substrings	F905_7478	C2/fi905.c
+time	FIND_SEPARATOR_FACILITY	has_separators	F905_7479	C2/fi905.c
+time	DATE_TIME_CODE_STRING	make	F906_7480	C2/da906.c
+time	DATE_TIME_CODE_STRING	value	F906_7481	C2/da906.c
+time	DATE_TIME_CODE_STRING	name	F906_7482	C2/da906.c
+time	DATE_TIME_CODE_STRING	base_century	F906_7483	C2/da906.c
+time	DATE_TIME_CODE_STRING	is_date	F906_7484	C2/da906.c
+time	DATE_TIME_CODE_STRING	is_time	F906_7485	C2/da906.c
+time	DATE_TIME_CODE_STRING	is_date_time	F906_7486	C2/da906.c
+time	DATE_TIME_CODE_STRING	is_value_valid	F906_7487	C2/da906.c
+time	DATE_TIME_CODE_STRING	separators_used	F906_7488	C2/da906.c
+time	DATE_TIME_CODE_STRING	set_base_century	F906_7489	C2/da906.c
+time	DATE_TIME_CODE_STRING	correspond	F906_7490	C2/da906.c
+time	DATE_TIME_CODE_STRING	create_string	F906_7491	C2/da906.c
+time	DATE_TIME_CODE_STRING	create_date_string	F906_7492	C2/da906.c
+time	DATE_TIME_CODE_STRING	create_time_string	F906_7493	C2/da906.c
+time	DATE_TIME_CODE_STRING	create_date_time	F906_7494	C2/da906.c
+time	DATE_TIME_CODE_STRING	create_date	F906_7495	C2/da906.c
+time	DATE_TIME_CODE_STRING	create_time	F906_7496	C2/da906.c
+time	DATE_TIME_CODE_STRING	precise	F906_7497	C2/da906.c
+time	DATE_TIME_CODE_STRING	precise_date	F906_7498	C2/da906.c
+time	DATE_TIME_CODE_STRING	precise_time	F906_7499	C2/da906.c
+time	DATE_TIME_CODE_STRING	days	F906_7500	C2/da906.c
+time	DATE_TIME_CODE_STRING	months	F906_7501	C2/da906.c
+time	DATE_TIME_CODE_STRING	right_day_text	F906_7502	C2/da906.c
+time	DATE_TIME_CODE_STRING	parser	F906_7503	C2/da906.c
+time	DATE_TIME_CODE_STRING	internal_parser	F906_7504	C2/da906.c
+time	TIME_VALIDITY_CHECKER	time_valid	F907_7505	C2/ti907.c
+time	TIME_VALIDITY_CHECKER	compact_time_valid	F907_7506	C2/ti907.c
+time	TIME_VALIDITY_CHECKER	is_correct_time	F907_7507	C2/ti907.c
+time	TIME	make	F908_7508	C2/ti908.c
+time	TIME	make_fine	F908_7509	C2/ti908.c
+time	TIME	make_now	F908_7510	C2/ti908.c
+time	TIME	make_now_utc	F908_7511	C2/ti908.c
+time	TIME	make_by_seconds	F908_7512	C2/ti908.c
+time	TIME	make_by_fine_seconds	F908_7513	C2/ti908.c
+time	TIME	make_from_string_default	F908_7514	C2/ti908.c
+time	TIME	make_from_string	F908_7515	C2/ti908.c
+time	TIME	make_by_compact_time	F908_7516	C2/ti908.c
+time	TIME	origin	F908_7517	C2/ti908.c
+time	TIME	is_less	F908_7518	C2/ti908.c
+time	TIME	duration	F908_7519	C2/ti908.c
+time	TIME	seconds	F908_7520	C2/ti908.c
+time	TIME	fine_seconds	F908_7521	C2/ti908.c
+time	TIME	plus	F908_7522	C2/ti908.c
+time	TIME	relative_duration	F908_7523	C2/ti908.c
+time	TIME	second_add	F908_7524	C2/ti908.c
+time	TIME	fine_second_add	F908_7525	C2/ti908.c
+time	TIME	minute_add	F908_7526	C2/ti908.c
+time	TIME	hour_add	F908_7527	C2/ti908.c
+time	TIME	second_forth	F908_7528	C2/ti908.c
+time	TIME	second_back	F908_7529	C2/ti908.c
+time	TIME	minute_forth	F908_7530	C2/ti908.c
+time	TIME	minute_back	F908_7531	C2/ti908.c
+time	TIME	hour_forth	F908_7532	C2/ti908.c
+time	TIME	hour_back	F908_7533	C2/ti908.c
+time	TIME	debug_output	F908_7534	C2/ti908.c
+time	TIME	out	F908_7535	C2/ti908.c
+time	TIME	formatted_out	F908_7536	C2/ti908.c
+time	DATE_TIME_VALIDITY_CHECKER	date_time_valid	F909_7537	C2/da909.c
+time	DATE_TIME_VALIDITY_CHECKER	date_time_valid_with_base	F909_7538	C2/da909.c
+time	DATE_TIME_VALIDITY_CHECKER	is_correct_date_time	F909_7539	C2/da909.c
+time	DATE_TIME_PARSER	make	F910_7540	C2/da910.c
+time	DATE_TIME_PARSER	source_string	F910_7541	C2/da910.c
+time	DATE_TIME_PARSER	year	F910_7542	C2/da910.c
+time	DATE_TIME_PARSER	month	F910_7543	C2/da910.c
+time	DATE_TIME_PARSER	day	F910_7544	C2/da910.c
+time	DATE_TIME_PARSER	hour	F910_7545	C2/da910.c
+time	DATE_TIME_PARSER	minute	F910_7546	C2/da910.c
+time	DATE_TIME_PARSER	fine_second	F910_7547	C2/da910.c
+time	DATE_TIME_PARSER	day_text	F910_7548	C2/da910.c
+time	DATE_TIME_PARSER	parsed	F910_7549	C2/da910.c
+time	DATE_TIME_PARSER	is_set_up	F910_7550	C2/da910.c
+time	DATE_TIME_PARSER	is_date	F910_7551	C2/da910.c
+time	DATE_TIME_PARSER	is_time	F910_7552	C2/da910.c
+time	DATE_TIME_PARSER	is_date_time	F910_7553	C2/da910.c
+time	DATE_TIME_PARSER	is_value_valid	F910_7554	C2/da910.c
+time	DATE_TIME_PARSER	set_source_string	F910_7555	C2/da910.c
+time	DATE_TIME_PARSER	set_day_array	F910_7556	C2/da910.c
+time	DATE_TIME_PARSER	set_month_array	F910_7557	C2/da910.c
+time	DATE_TIME_PARSER	set_base_century	F910_7558	C2/da910.c
+time	DATE_TIME_PARSER	parse	F910_7559	C2/da910.c
+time	DATE_TIME_PARSER	year_val	F910_7560	C2/da910.c
+time	DATE_TIME_PARSER	month_val	F910_7561	C2/da910.c
+time	DATE_TIME_PARSER	day_val	F910_7562	C2/da910.c
+time	DATE_TIME_PARSER	hour_val	F910_7563	C2/da910.c
+time	DATE_TIME_PARSER	minute_val	F910_7564	C2/da910.c
+time	DATE_TIME_PARSER	fine_second_val	F910_7565	C2/da910.c
+time	DATE_TIME_PARSER	day_text_val	F910_7566	C2/da910.c
+time	DATE_TIME_PARSER	code	F910_7567	C2/da910.c
+time	DATE_TIME_PARSER	months	F910_7568	C2/da910.c
+time	DATE_TIME_PARSER	days	F910_7569	C2/da910.c
+time	DATE_TIME_PARSER	base_century	F910_7570	C2/da910.c
+time	DATE_TIME	make	F911_7571	C2/da911.c
+time	DATE_TIME	make_fine	F911_7572	C2/da911.c
+time	DATE_TIME	make_by_date_time	F911_7573	C2/da911.c
+time	DATE_TIME	make_by_date	F911_7574	C2/da911.c
+time	DATE_TIME	make_now	F911_7575	C2/da911.c
+time	DATE_TIME	make_now_utc	F911_7576	C2/da911.c
+time	DATE_TIME	make_from_string_default	F911_7577	C2/da911.c
+time	DATE_TIME	make_from_string_default_with_base	F911_7578	C2/da911.c
+time	DATE_TIME	make_from_string	F911_7579	C2/da911.c
+time	DATE_TIME	make_from_string_with_base	F911_7580	C2/da911.c
+time	DATE_TIME	make_from_epoch	F911_7581	C2/da911.c
+time	DATE_TIME	date	F911_7582	C2/da911.c
+time	DATE_TIME	time	F911_7583	C2/da911.c
+time	DATE_TIME	origin	F911_7584	C2/da911.c
+time	DATE_TIME	date_duration	F911_7585	C2/da911.c
+time	DATE_TIME	days	F911_7586	C2/da911.c
+time	DATE_TIME	time_duration	F911_7587	C2/da911.c
+time	DATE_TIME	seconds	F911_7588	C2/da911.c
+time	DATE_TIME	is_less	F911_7589	C2/da911.c
+time	DATE_TIME	is_equal	F911_7590	C2/da911.c
+time	DATE_TIME	duration	F911_7591	C2/da911.c
+time	DATE_TIME	set_date	F911_7592	C2/da911.c
+time	DATE_TIME	set_time	F911_7593	C2/da911.c
+time	DATE_TIME	copy	F911_7594	C2/da911.c
+time	DATE_TIME	plus	F911_7595	C2/da911.c
+time	DATE_TIME	add	F911_7596	C2/da911.c
+time	DATE_TIME	relative_duration	F911_7597	C2/da911.c
+time	DATE_TIME	definite_duration	F911_7598	C2/da911.c
+time	DATE_TIME	day_add	F911_7599	C2/da911.c
+time	DATE_TIME	hour_add	F911_7600	C2/da911.c
+time	DATE_TIME	minute_add	F911_7601	C2/da911.c
+time	DATE_TIME	second_add	F911_7602	C2/da911.c
+time	DATE_TIME	fine_second_add	F911_7603	C2/da911.c
+time	DATE_TIME	debug_output	F911_7604	C2/da911.c
+time	DATE_TIME	out	F911_7605	C2/da911.c
+time	DATE_TIME	formatted_out	F911_7606	C2/da911.c
